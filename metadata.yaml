@@ -1,5 +1,8 @@
 _repo: Saloilta-ja-vesilta-Luonnonkertomuksia_63976
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Nuutinen, Aaro A. (Aaro August)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/52463
     wikipedia: https://fi.wikipedia.org/wiki/Aaro_A._Nuutinen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63976#Saloilta-ja-vesilta-Luonnonkertomuksia
 gutenberg_issued: '2020-12-06'
 gutenberg_type: Text
 identifiers:
